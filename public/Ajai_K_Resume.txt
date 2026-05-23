@@ -1,0 +1,51 @@
+AJAI K
+Phone: +91 7200154450
+Email: ajaik2424@gmail.com
+LinkedIn: www.linkedin.com/in/ajaikannan
+
+=========================================
+CAREER OBJECTIVE
+=========================================
+Aspiring Software Developer with strong programming skills in web and backend technologies including React.js, JavaScript, and MySQL. Proficient in creating responsive, dynamic applications and integrating front-end and back-end systems. Passionate about problem-solving, learning emerging technologies, and delivering quality-driven solutions. Seeking an opportunity to apply technical expertise and contribute to innovative projects in a dynamic organization.
+
+=========================================
+EDUCATIONAL QUALIFICATION
+=========================================
+* B.E. Computer Science Engineering
+  Jerusalem College of Engineering | 2022 - 2026
+  Grade: 81%
+
+* HSc (Higher Secondary School)
+  Peniel Matriculation Higher Secondary School | 2021 - 2022
+  Grade: 79%
+
+* SSLC (Secondary School Leaving Certificate)
+  Peniel Matriculation Higher Secondary School | 2019 - 2020
+  Grade: 70%
+
+=========================================
+PROFESSIONAL EXPERIENCE / INTERNSHIP
+=========================================
+* Full Stack Development (Java) Internship
+  RETECH SOLUTIONS PVT. LTD. | December 2024
+  - Developed dynamic and responsive web interfaces using React.js, Bootstrap, HTML, and CSS to enhance user engagement across various devices.
+  - Integrated frontend components with Spring Boot backend services to ensure seamless data flow and application functionality.
+  - Worked with and optimized RESTful API integrations to improve data retrieval efficiency and enhance user interactions.
+  - Ensured maintainable and scalable code by following best practices in component-based architecture and modular design.
+
+=========================================
+PROJECT WORK
+=========================================
+* BLOOD CONNECT (Mini Project)
+  - Developed BloodConnect, a full-stack web application using Spring Boot and React.js to efficiently connect blood donors with recipients.
+  - Implemented real-time email notifications for donors upon request approval to streamline the blood donation process.
+  - Designed responsive and user-friendly interfaces for registration, blood search, and request approval using React.js and Bootstrap.
+  - Managed backend services and MySQL database integration for secure storage, efficient retrieval, and management of donor and recipient data.
+
+=========================================
+TECHNICAL PROFICIENCY
+=========================================
+* Languages & Frameworks: React.js, JavaScript, HTML5, CSS3, Python, Java
+* Database: MySQL
+* Tools & Libraries: VS Code, Canva, Postman
+* Web Skills: Responsive Web Design, REST API Integration
