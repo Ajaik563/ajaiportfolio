@@ -47,9 +47,7 @@ const skillCategories = [
     skills: [
       { name: 'Git', icon: <FaGitAlt className="text-red-500 w-4 h-4" /> },
       { name: 'GitHub', icon: <FaGithub className="text-white w-4 h-4" /> },
-      { name: 'Postman', icon: <SiPostman className="text-orange-500 w-4 h-4" /> },
-      { name: 'Kafka', icon: <SiApachekafka className="text-gray-200 w-4 h-4" /> },
-      { name: 'Streamlit', icon: <SiStreamlit className="text-red-500 w-4 h-4" /> },
+      { name: 'Postman', icon: <SiPostman className="text-orange-500 w-4 h-4" /> }
     ],
   },
   {
